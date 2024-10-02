@@ -1,0 +1,1 @@
+get the total size of the folderd
